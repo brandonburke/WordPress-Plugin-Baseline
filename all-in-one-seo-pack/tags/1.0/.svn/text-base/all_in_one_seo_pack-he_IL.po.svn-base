@@ -1,0 +1,176 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: all in one seo pack\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2007-07-03 09:58+0200\n"
+"Last-Translator: Hannit Cohen <hannit@gmail.com>\n"
+"Language-Team: hannit <webmaster@dakars.info>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Hebrew\n"
+"X-Poedit-Country: ISRAEL\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: all_in_one_seo_pack.php:263
+#: all_in_one_seo_pack.php:288
+msgid "Title:"
+msgstr "כותרת דפדפן (Title):"
+
+#: all_in_one_seo_pack.php:267
+#: all_in_one_seo_pack.php:292
+msgid "Keywords (comma separated):"
+msgstr "מילות מפתח (מופרדות בפסיקים):"
+
+#: all_in_one_seo_pack.php:284
+#, fuzzy
+msgid "All in One SEO Pack"
+msgstr "All in One SEO"
+
+#: all_in_one_seo_pack.php:296
+msgid "Description:"
+msgstr "תיאור:"
+
+#: all_in_one_seo_pack.php:304
+msgid "All in One SEO"
+msgstr "All in One SEO"
+
+#: all_in_one_seo_pack.php:309
+msgid "All in One SEO Options Updated."
+msgstr "האפשרויות עודכנו"
+
+#: all_in_one_seo_pack.php:333
+msgid "All in One SEO Plugin Options"
+msgstr " אפשרויות All in One SEO"
+
+#: all_in_one_seo_pack.php:335
+msgid "<a target=\"_blank\" title=\"All in One SEO Plugin Feedback\" href=\"http://wp.uberdose.com/2007/03/24/all-in-one-seo-pack/#respond\">Feedback</a>"
+msgstr "<a target=\"_blank\" title=\"All in One SEO Plugin Feedback\" href=\"http://wp.uberdose.com/2007/03/24/all-in-one-seo-pack/#respond\">הביעו דעה</a>"
+
+#: all_in_one_seo_pack.php:336
+msgid "<a target=\"_blank\" title=\"All in One SEO Plugin Help\" href=\"http://wp.uberdose.com/2007/05/11/all-in-one-seo-pack-help/\">Help</a>"
+msgstr "<a target=\"_blank\" title=\"All in One SEO Plugin Help\" href=\"http://wp.uberdose.com/2007/05/11/all-in-one-seo-pack-help/\">עזרה</a>"
+
+#: all_in_one_seo_pack.php:342
+msgid "Help for Option Home Title"
+msgstr "עזרה לאפשרות כותרת דף הבית"
+
+#: all_in_one_seo_pack.php:343
+msgid "Home Title:"
+msgstr "כותרת דף הבית (title):"
+
+#: all_in_one_seo_pack.php:352
+msgid "Help for Option Home Description"
+msgstr "עזרה לאפשרות תיאור דף הבית"
+
+#: all_in_one_seo_pack.php:353
+msgid "Home Description:"
+msgstr "תיאור דף הבית:"
+
+#: all_in_one_seo_pack.php:362
+msgid "Help for Option Home Keywords"
+msgstr "עזרה לאפשרות מילות מפתח בדף הבית"
+
+#: all_in_one_seo_pack.php:363
+msgid "Home Keywords (comma separated):"
+msgstr "תגיות מפתח לדף הבית (מופרדות בפסיקים):"
+
+#: all_in_one_seo_pack.php:372
+msgid "Help for Option Rewrite Titles"
+msgstr "עזרה לאפשרות שכתוב כותרות"
+
+#: all_in_one_seo_pack.php:373
+msgid "Rewrite Titles:"
+msgstr "שכתוב כותרות:"
+
+#: all_in_one_seo_pack.php:382
+msgid "Help for Option Categories for META keywords"
+msgstr "עזרה לאפשרות קטגוריות בתור תגיות מטא"
+
+#: all_in_one_seo_pack.php:383
+msgid "Use Categories for META keywords:"
+msgstr "שימוש בקטגוריות עבור תגיות מפתח:"
+
+#: all_in_one_seo_pack.php:391
+msgid "Help for Option Category Description as Title"
+msgstr "עזרה לאפשרות תאור קטגוריות בתור כותרת"
+
+#: all_in_one_seo_pack.php:392
+msgid "Use Category Description as Title:"
+msgstr "שימוש בתיאור הקטגוריות ככותרת:"
+
+#: all_in_one_seo_pack.php:401
+msgid "Help for Option noindex for Categories"
+msgstr "עזרה לאפרות ביטול אינדוקס קטגוריות"
+
+#: all_in_one_seo_pack.php:402
+msgid "Use noindex for Categories:"
+msgstr "לא לאנדקס את דפי הקטגוריות:"
+
+#: all_in_one_seo_pack.php:411
+msgid "Help for Option noindex for Archives"
+msgstr "עזרה לאפשרות ביטול אינדוקס ארכיון"
+
+#: all_in_one_seo_pack.php:412
+msgid "Use noindex for Archives:"
+msgstr "לא לאנדקס את דפי הארכיון:"
+
+#: all_in_one_seo_pack.php:421
+msgid "Help for Autogenerate Descriptions"
+msgstr "עזרה לאפשרות יצירת תיאור אוטומטי"
+
+#: all_in_one_seo_pack.php:422
+msgid "Autogenerate Descriptions:"
+msgstr "ייצור תיאור אוטומטי:"
+
+#: all_in_one_seo_pack.php:431
+msgid "Help for Option Max Number of Words in Auto-Generated Descriptions"
+msgstr "עזרה לאפשרות מספר מקסימלי של מילים בתיאור אוטומטי"
+
+#: all_in_one_seo_pack.php:432
+msgid "Max Number of Words in Auto-Generated Descriptions:"
+msgstr "מספר מילים מקסימלי בתיאור שיוצר אוטומטית:"
+
+#: all_in_one_seo_pack.php:443
+msgid "Update Options"
+msgstr "עדכון אפשרויות"
+
+#: all_in_one_seo_pack.php:453
+msgid "All in One SEO Plugin Home Description"
+msgstr "תיאור דף הבית"
+
+#: all_in_one_seo_pack.php:454
+msgid "All in One SEO Plugin Home Title"
+msgstr "כותרת דף הבית"
+
+#: all_in_one_seo_pack.php:455
+msgid "All in One SEO Plugin Rewrite Titles"
+msgstr "שיכתוב כותרות"
+
+#: all_in_one_seo_pack.php:456
+msgid "All in One SEO Plugin Use Categories"
+msgstr "שימוש בקטגוריות"
+
+#: all_in_one_seo_pack.php:457
+msgid "All in One SEO Plugin Maximum Number of Words in Auto-Generated Descriptions"
+msgstr "מספר מקסימלי של מילים לשימוש בתיאר המיוצר אוטומטית"
+
+#: all_in_one_seo_pack.php:458
+msgid "Use Category Description for Title"
+msgstr "שימוש בתיאור הקטגוריות ככותרת"
+
+#: all_in_one_seo_pack.php:459
+msgid "All in One SEO Plugin Noindex for Categories"
+msgstr "שימוש ב-noindex לדפי קטגוריות"
+
+#: all_in_one_seo_pack.php:460
+msgid "All in One SEO Plugin Noindex for Archives"
+msgstr "שימוש ב-noindex לדפי ארכיון"
+
+#: all_in_one_seo_pack.php:461
+msgid "All in One SEO Plugin Autogenerate Descriptions"
+msgstr "ייצור תיאור אוטומטי"
+

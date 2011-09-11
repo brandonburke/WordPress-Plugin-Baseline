@@ -1,0 +1,16 @@
+/* Generic styles for WP-Debug. Additional styles are defined in the krumo.ini file. */
+
+div.krumo-root, .krumo-title {
+	width: 650px;
+}
+.krumo-align, .krumo-title {
+	width: 650px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.krumo-node {
+	text-align: left;
+}
+.krumo-title {
+	margin-bottom: 20px;
+}

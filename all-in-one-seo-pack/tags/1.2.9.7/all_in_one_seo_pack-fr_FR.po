@@ -1,0 +1,270 @@
+# All_in_One_SEO_Pack Plugin POT file.
+# Copyright (C) 2007 uberdose <seopack@uberdose.com>
+# This file is distributed under the same license as the All_in_One_SEO_Pack package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: All_in_One_SEO_Pack 1.2.9.1\n"
+"Report-Msgid-Bugs-To: <seopack@uberdose.com>\n"
+"POT-Creation-Date: 2007-10-07 18:00+0100\n"
+"PO-Revision-Date: 2007-10-12 14:55+0100\n"
+"Last-Translator: arnWald <abiweb@free.fr>\n"
+"Language-Team: arnWald <abiweb@free.fr>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;_c\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: all_in_one_seo_pack.php:536
+#: all_in_one_seo_pack.php:565
+#: all_in_one_seo_pack.php:593
+msgid "All in One SEO Pack"
+msgstr "All in One SEO Pack"
+
+#: all_in_one_seo_pack.php:540
+#: all_in_one_seo_pack.php:568
+#: all_in_one_seo_pack.php:596
+msgid "Title:"
+msgstr "Titre :"
+
+#: all_in_one_seo_pack.php:544
+#: all_in_one_seo_pack.php:575
+#: all_in_one_seo_pack.php:603
+msgid "Keywords (comma separated):"
+msgstr "Mots-clés (séparés par une virgule) :"
+
+#: all_in_one_seo_pack.php:571
+#: all_in_one_seo_pack.php:599
+msgid "Description:"
+msgstr "Description :"
+
+#: all_in_one_seo_pack.php:573
+#: all_in_one_seo_pack.php:601
+msgid "Most search engines use a maximum of 160 chars for the description."
+msgstr "La plupart des moteurs de recherche utilisent au maximum 160 caractères pour la description."
+
+#: all_in_one_seo_pack.php:619
+msgid "All in One SEO"
+msgstr "All in One SEO"
+
+#: all_in_one_seo_pack.php:624
+msgid "All in One SEO Options Updated."
+msgstr "Les options de &quot;All in One SEO&quot; ont été mises à jour."
+
+#: all_in_one_seo_pack.php:658
+msgid "All in One SEO Plugin Options"
+msgstr "Options du plugin &quot;All in One SEO&quot;"
+
+#: all_in_one_seo_pack.php:660
+msgid "This is version "
+msgstr "Version installée : "
+
+#: all_in_one_seo_pack.php:661
+msgid "All in One SEO Plugin Release History"
+msgstr "Historique des versions du plugin &quot;All in One SEO&quot;"
+
+#: all_in_one_seo_pack.php:662
+msgid "Should I upgrade?"
+msgstr "Vérifier les mises à jour ?"
+
+#: all_in_one_seo_pack.php:665
+msgid "All in One SEO Plugin Help"
+msgstr "Page d'aide du plugin &quot;All in One SEO&quot;"
+
+#: all_in_one_seo_pack.php:666
+#: all_in_one_seo_pack.php:687
+#: all_in_one_seo_pack.php:698
+#: all_in_one_seo_pack.php:709
+#: all_in_one_seo_pack.php:723
+#: all_in_one_seo_pack.php:739
+#: all_in_one_seo_pack.php:750
+#: all_in_one_seo_pack.php:761
+#: all_in_one_seo_pack.php:772
+#: all_in_one_seo_pack.php:783
+#: all_in_one_seo_pack.php:794
+#: all_in_one_seo_pack.php:810
+#: all_in_one_seo_pack.php:821
+#: all_in_one_seo_pack.php:832
+#: all_in_one_seo_pack.php:848
+#: all_in_one_seo_pack.php:859
+#: all_in_one_seo_pack.php:870
+msgid "Help"
+msgstr "Aide"
+
+#: all_in_one_seo_pack.php:667
+#: all_in_one_seo_pack.php:668
+msgid "FAQ"
+msgstr "FAQ"
+
+#: all_in_one_seo_pack.php:669
+msgid "All in One SEO Plugin Feedback"
+msgstr "Laisser un message à l'auteur de &quot;All in One SEO&quot;"
+
+#: all_in_one_seo_pack.php:670
+msgid "Feedback"
+msgstr "Support"
+
+#: all_in_one_seo_pack.php:671
+msgid "All in One SEO Plugin Translations"
+msgstr "Traductions disponibles pour &quot;All in One SEO&quot;"
+
+#: all_in_one_seo_pack.php:672
+msgid "Translations"
+msgstr "Traductions"
+
+#: all_in_one_seo_pack.php:675
+#: all_in_one_seo_pack.php:879
+msgid "Update Options"
+msgstr "Mettre à jour les options"
+
+#: all_in_one_seo_pack.php:677
+msgid "Home Options"
+msgstr "Options des pages Index"
+
+#: all_in_one_seo_pack.php:681
+msgid "Home Title:"
+msgstr "Balise &lt;title&gt; :"
+
+#: all_in_one_seo_pack.php:687
+msgid "Help for Option Home Title"
+msgstr "Aide pour l'option : Index &lt;title&gt;"
+
+#: all_in_one_seo_pack.php:692
+msgid "Home Description:"
+msgstr "Méta &quot;description&quot; :"
+
+#: all_in_one_seo_pack.php:698
+msgid "Help for Option Home Description"
+msgstr "Aide pour l'option : Index &quot;description&quot;"
+
+#: all_in_one_seo_pack.php:703
+msgid "Home Keywords (comma separated):"
+msgstr "Méta &quot;keywords&quot; <br />(items séparés par une virgule) :"
+
+#: all_in_one_seo_pack.php:709
+msgid "Help for Option Home Keywords"
+msgstr "Aide pour l'option : Index &quot;keywords&quot;"
+
+#: all_in_one_seo_pack.php:715
+msgid "Titles Rewrite Options"
+msgstr "Options de réécriture des balises &lt;title&gt;"
+
+#: all_in_one_seo_pack.php:719
+msgid "Rewrite Titles:"
+msgstr "Utiliser les &lt;title&gt; générés par AiOSEO :"
+
+#: all_in_one_seo_pack.php:723
+msgid "Help for Option Rewrite Titles"
+msgstr "Aide pour l'option : utiliser les &lt;title&gt; générés par &quot;All in One SEO&quot;"
+
+#: all_in_one_seo_pack.php:733
+msgid "Post Title Format:"
+msgstr "Format &lt;title&gt; des articles :"
+
+#: all_in_one_seo_pack.php:739
+msgid "Help for Post Title Format"
+msgstr "Aide pour l'option : format &lt;title&gt; des articles"
+
+#: all_in_one_seo_pack.php:744
+msgid "Page Title Format:"
+msgstr "Format &lt;title&gt; des pages (page.php) :"
+
+#: all_in_one_seo_pack.php:750
+msgid "Help for Page Title Format"
+msgstr "Aide pour l'option : format &lt;title&gt; des pages"
+
+#: all_in_one_seo_pack.php:755
+msgid "Category Title Format:"
+msgstr "Format &lt;title&gt; des catégories :"
+
+#: all_in_one_seo_pack.php:761
+msgid "Help for Category Title Format"
+msgstr "Aide pour l'option : format &lt;title&gt; des catégories"
+
+#: all_in_one_seo_pack.php:766
+msgid "Archive Title Format:"
+msgstr "Format &lt;title&gt; des archives :"
+
+#: all_in_one_seo_pack.php:772
+msgid "Help for Archive Title Format"
+msgstr "Aide pour l'option : format &lt;title&gt; des archives"
+
+#: all_in_one_seo_pack.php:777
+msgid "Tag Title Format:"
+msgstr "Format &lt;title&gt; des pages tags :"
+
+#: all_in_one_seo_pack.php:783
+msgid "Help for Tag Title Format"
+msgstr "Aide pour l'option : format &lt;title&gt; des pages tags"
+
+#: all_in_one_seo_pack.php:788
+msgid "Search Title Format:"
+msgstr "Format &lt;title&gt; des recherches :"
+
+#: all_in_one_seo_pack.php:794
+msgid "Help for Search Title Format"
+msgstr "Aide pour l'option : format &lt;title&gt; des recherches"
+
+#: all_in_one_seo_pack.php:800
+msgid "Anti-Duplicate-Content Options"
+msgstr "Options &quot;Anti-Duplicate-Content&quot;"
+
+#: all_in_one_seo_pack.php:804
+msgid "Use noindex for Categories:"
+msgstr "Utiliser &quot;noindex&quot; pour les catégories :"
+
+#: all_in_one_seo_pack.php:810
+msgid "Help for Option noindex for Categories"
+msgstr "Aide pour l'option : &quot;noindex&quot; des catégories"
+
+#: all_in_one_seo_pack.php:815
+msgid "Use noindex for Archives:"
+msgstr "Utiliser &quot;noindex&quot; pour les archives :"
+
+#: all_in_one_seo_pack.php:821
+msgid "Help for Option noindex for Archives"
+msgstr "Aide pour l'option : &quot;noindex&quot; des archives"
+
+#: all_in_one_seo_pack.php:826
+msgid "Use noindex for Tag Archives:"
+msgstr "Utiliser &quot;noindex&quot; pour les pages tags :"
+
+#: all_in_one_seo_pack.php:832
+msgid "Help for Option noindex for Tag Archives"
+msgstr "Aide pour l'option : &quot;noindex&quot; des pages tags"
+
+#: all_in_one_seo_pack.php:838
+msgid "General Options"
+msgstr "Options générales"
+
+#: all_in_one_seo_pack.php:842
+msgid "Use Categories for META keywords:"
+msgstr "Utiliser les noms de catégories <br />pour les métas &quot;keywords&quot; :"
+
+#: all_in_one_seo_pack.php:848
+msgid "Help for Option Categories for META keywords"
+msgstr "Aide pour l'option : utiliser les noms de catégories pour les métas &quot;keywords&quot;"
+
+#: all_in_one_seo_pack.php:853
+msgid "Autogenerate Descriptions:"
+msgstr "Générer automatiquement <br />les métas &quot;description&quot; :"
+
+#: all_in_one_seo_pack.php:859
+msgid "Help for Autogenerate Descriptions"
+msgstr "Aide pour l'option : générer automatiquement les métas &quot;description&quot;"
+
+#: all_in_one_seo_pack.php:864
+msgid "Capitalize Title Words:"
+msgstr "Mettre une capitale aux mots des titres <br />(concerne tags et recherches) :"
+
+#: all_in_one_seo_pack.php:870
+msgid "Help for Capitalize Title Words"
+msgstr "Aide pour l'option : capitale aux mots des titres"
+

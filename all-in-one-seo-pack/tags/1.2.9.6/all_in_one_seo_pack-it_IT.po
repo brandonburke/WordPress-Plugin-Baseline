@@ -1,0 +1,217 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: all_in_one_seo_pack\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2007-10-08 14:40+0100\n"
+"Last-Translator: lucacicca <lucacicca@gmail.com>\n"
+"Language-Team: Luca Ciccarelli <lucacicca@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-Country: ITALY\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: all_in_one_seo_pack.php:532
+#: all_in_one_seo_pack.php:561
+#: all_in_one_seo_pack.php:592
+msgid "All in One SEO Pack"
+msgstr "All in One SEO Pack"
+
+#: all_in_one_seo_pack.php:536
+#: all_in_one_seo_pack.php:565
+#: all_in_one_seo_pack.php:596
+msgid "Title:"
+msgstr "Titolo:"
+
+#: all_in_one_seo_pack.php:540
+#: all_in_one_seo_pack.php:575
+#: all_in_one_seo_pack.php:605
+msgid "Keywords (comma separated):"
+msgstr "Parole chiave (separate da virgola):"
+
+#: all_in_one_seo_pack.php:569
+#: all_in_one_seo_pack.php:600
+msgid "Description:"
+msgstr "Descrizione:"
+
+#: all_in_one_seo_pack.php:571
+#: all_in_one_seo_pack.php:602
+msgid "Most search engines use a maximum of 160 chars for the description."
+msgstr "La maggior parte dei motori di ricerca usa un massimo di 160 caratteri per la descrizione."
+
+#: all_in_one_seo_pack.php:620
+msgid "All in One SEO"
+msgstr "All in One SEO"
+
+#: all_in_one_seo_pack.php:625
+msgid "All in One SEO Options Updated."
+msgstr "Opzioni di All in One SEO aggiornate."
+
+#: all_in_one_seo_pack.php:658
+msgid "All in One SEO Plugin Options"
+msgstr "Opzioni del plugin All in One SEO"
+
+#: all_in_one_seo_pack.php:660
+msgid "This is version "
+msgstr "Questa &egrave la versione "
+
+#: all_in_one_seo_pack.php:661
+msgid "All in One SEO Plugin Release History"
+msgstr "Cronologia delle relese del plugin All in One SEO"
+
+#: all_in_one_seo_pack.php:666
+msgid "All in One SEO Plugin Help"
+msgstr "Help del plugin All in One SEO"
+
+#: all_in_one_seo_pack.php:667
+msgid "Help"
+msgstr "Help"
+
+#: all_in_one_seo_pack.php:668
+#: all_in_one_seo_pack.php:669
+msgid "FAQ"
+msgstr "FAQ"
+
+#: all_in_one_seo_pack.php:670
+msgid "All in One SEO Plugin Feedback"
+msgstr "Feedback del Plugin All in One SEO"
+
+#: all_in_one_seo_pack.php:671
+msgid "Feedback"
+msgstr "Feedback"
+
+#: all_in_one_seo_pack.php:672
+msgid "All in One SEO Plugin Translations"
+msgstr "Traduzioni del plugin All in One SEO"
+
+#: all_in_one_seo_pack.php:673
+msgid "Translations"
+msgstr "Traduzioni"
+
+#: all_in_one_seo_pack.php:679
+msgid "Help for Option Home Title"
+msgstr "Help per le opzioni del Titolo della Home"
+
+#: all_in_one_seo_pack.php:680
+msgid "Home Title:"
+msgstr "Titolo della Home:"
+
+#: all_in_one_seo_pack.php:689
+msgid "Help for Option Home Description"
+msgstr "Help per la descrizione della Home"
+
+#: all_in_one_seo_pack.php:690
+msgid "Home Description:"
+msgstr "Descrizione della Home:"
+
+#: all_in_one_seo_pack.php:699
+msgid "Help for Option Home Keywords"
+msgstr "Help per le parole chiave della Home"
+
+#: all_in_one_seo_pack.php:700
+msgid "Home Keywords (comma separated):"
+msgstr "Parole chiave della Home (separate da virgola):"
+
+#: all_in_one_seo_pack.php:709
+msgid "Help for Option Rewrite Titles"
+msgstr "Help per l'opzione Riscrivi i Titoli"
+
+#: all_in_one_seo_pack.php:710
+msgid "Rewrite Titles:"
+msgstr "Riscrivi i titoli:"
+
+#: all_in_one_seo_pack.php:719
+msgid "Help for Post Title Format"
+msgstr "Help per il formato del titolo del post"
+
+#: all_in_one_seo_pack.php:720
+msgid "Post Title Format:"
+msgstr "Formato del titolo del post:"
+
+#: all_in_one_seo_pack.php:729
+msgid "Help for Page Title Format"
+msgstr "Help per il Formato del Titolo della Pagina"
+
+#: all_in_one_seo_pack.php:730
+msgid "Page Title Format:"
+msgstr "Formato del Titolo della Pagina:"
+
+#: all_in_one_seo_pack.php:739
+msgid "Help for Category Title Format"
+msgstr "Help per il Formato del Titolo della Categoria"
+
+#: all_in_one_seo_pack.php:740
+msgid "Category Title Format:"
+msgstr "Formato del Titolo della Categoria:"
+
+#: all_in_one_seo_pack.php:750
+msgid "Help for Archive Title Format"
+msgstr "Help per il Formato del Titolo dell&#8217;Archivio"
+
+#: all_in_one_seo_pack.php:751
+msgid "Archive Title Format:"
+msgstr "Formato del Titolo dell&#8217;Archivio:"
+
+#: all_in_one_seo_pack.php:761
+msgid "Help for Tag Title Format"
+msgstr "Help per il Formato del Titolo delle Tag"
+
+#: all_in_one_seo_pack.php:762
+msgid "Tag Title Format:"
+msgstr "Formato del Titolo delle Tag:"
+
+#: all_in_one_seo_pack.php:772
+msgid "Help for Search Title Format"
+msgstr "Help per il Formato per il Titolo della Ricerca"
+
+#: all_in_one_seo_pack.php:773
+msgid "Search Title Format:"
+msgstr "Formato per il Titolo della Ricerca:"
+
+#: all_in_one_seo_pack.php:783
+msgid "Help for Option Categories for META keywords"
+msgstr "Help per l&#8217;opzione Usa le Categorie per le parole chiave META"
+
+#: all_in_one_seo_pack.php:784
+msgid "Use Categories for META keywords:"
+msgstr "Usa le Categorie per le parole chiave META:"
+
+#: all_in_one_seo_pack.php:792
+msgid "Help for Option noindex for Categories"
+msgstr "Help per l&#8217;opzione Usa noindex per le categorie"
+
+#: all_in_one_seo_pack.php:793
+msgid "Use noindex for Categories:"
+msgstr "Usa noindex per le categorie:"
+
+#: all_in_one_seo_pack.php:802
+msgid "Help for Option noindex for Archives"
+msgstr "Help per l&#8217;opzione Usa noindex per gli archivi"
+
+#: all_in_one_seo_pack.php:803
+msgid "Use noindex for Archives:"
+msgstr "Usa noindex per gli Archivi:"
+
+#: all_in_one_seo_pack.php:812
+msgid "Help for Option noindex for Tag Archives"
+msgstr "Help per l&#8217;opzione Usa noindex per gli Archivi dei Tag"
+
+#: all_in_one_seo_pack.php:813
+msgid "Use noindex for Tag Archives:"
+msgstr "Usa noindex per gli Archivi dei Tag"
+
+#: all_in_one_seo_pack.php:822
+msgid "Help for Autogenerate Descriptions"
+msgstr "Help per Genera automaticamente le Descrizioni"
+
+#: all_in_one_seo_pack.php:823
+msgid "Autogenerate Descriptions:"
+msgstr "Genera automaticamente le Descrizioni:"
+
+#: all_in_one_seo_pack.php:834
+msgid "Update Options"
+msgstr "Aggiorna le opzioni"
+

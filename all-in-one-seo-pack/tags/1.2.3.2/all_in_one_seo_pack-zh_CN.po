@@ -1,0 +1,193 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: all in one seo pack\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2007-06-16 01:24-0800\n"
+"Last-Translator: 72pines <webmaster@72pines.com>\n"
+"Language-Team: 72pines\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: all_in_one_seo_pack.php:263
+#: all_in_one_seo_pack.php:288
+msgid "Title:"
+msgstr "标题: "
+
+#: all_in_one_seo_pack.php:267
+#: all_in_one_seo_pack.php:292
+msgid "Keywords (comma separated):"
+msgstr "关键词 (半角的逗号分开)"
+
+#: all_in_one_seo_pack.php:284
+#, fuzzy
+msgid "All in One SEO Pack"
+msgstr "All in One SEO"
+
+#: all_in_one_seo_pack.php:296
+msgid "Description:"
+msgstr "站点描述: "
+
+#: all_in_one_seo_pack.php:304
+msgid "All in One SEO"
+msgstr "All in One SEO"
+
+#: all_in_one_seo_pack.php:309
+msgid "All in One SEO Options Updated."
+msgstr "更新选项成功。"
+
+#: all_in_one_seo_pack.php:333
+msgid "All in One SEO Plugin Options"
+msgstr "All in One SEO 选项"
+
+#: all_in_one_seo_pack.php:335
+msgid "<a target=\"_blank\" title=\"All in One SEO Plugin Feedback\" href=\"http://wp.uberdose.com/2007/03/24/all-in-one-seo-pack/#respond\">Feedback</a>"
+msgstr "<a target=\"_blank\" title=\"All in One SEO Plugin Feedback\" href=\"http://wp.uberdose.com/2007/03/24/all-in-one-seo-pack/#respond\">反馈意见</a>"
+
+#: all_in_one_seo_pack.php:336
+msgid "<a target=\"_blank\" title=\"All in One SEO Plugin Help\" href=\"http://wp.uberdose.com/2007/05/11/all-in-one-seo-pack-help/\">Help</a>"
+msgstr "<a target=\"_blank\" title=\"All in One SEO Plugin Help\" href=\"http://wp.uberdose.com/2007/05/11/all-in-one-seo-pack-help/\">帮助文档</a>"
+
+#: all_in_one_seo_pack.php:342
+msgid "Help for Option Home Title"
+msgstr "首页标题选项的帮助"
+
+#: all_in_one_seo_pack.php:343
+msgid "Home Title:"
+msgstr "首页标题: "
+
+#: all_in_one_seo_pack.php:352
+#, fuzzy
+msgid "Help for Option Home Description"
+msgstr "首页描述: "
+
+#: all_in_one_seo_pack.php:353
+msgid "Home Description:"
+msgstr "首页描述: "
+
+#: all_in_one_seo_pack.php:362
+msgid "Help for Option Home Keywords"
+msgstr "首页关键词选项的帮助"
+
+#: all_in_one_seo_pack.php:363
+msgid "Home Keywords (comma separated):"
+msgstr "首页关键词 (半角的逗号分开)"
+
+#: all_in_one_seo_pack.php:372
+#, fuzzy
+msgid "Help for Option Rewrite Titles"
+msgstr "是否对所有文章使用 “标题名 | 博客名” 的优化格式: "
+
+#: all_in_one_seo_pack.php:373
+msgid "Rewrite Titles:"
+msgstr "是否对所有文章使用 “标题名 | 博客名” 的优化格式: "
+
+#: all_in_one_seo_pack.php:382
+#, fuzzy
+msgid "Help for Option Categories for META keywords"
+msgstr "使用分类名作为关键字: "
+
+#: all_in_one_seo_pack.php:383
+msgid "Use Categories for META keywords:"
+msgstr "使用分类名作为关键字: "
+
+#: all_in_one_seo_pack.php:391
+#, fuzzy
+msgid "Help for Option Category Description as Title"
+msgstr "使用分类描述作为标题: "
+
+#: all_in_one_seo_pack.php:392
+msgid "Use Category Description as Title:"
+msgstr "使用分类描述作为标题: "
+
+#: all_in_one_seo_pack.php:401
+#, fuzzy
+msgid "Help for Option noindex for Categories"
+msgstr "不让搜索引擎抓取分类页:"
+
+#: all_in_one_seo_pack.php:402
+msgid "Use noindex for Categories:"
+msgstr "不让搜索引擎抓取分类页:"
+
+#: all_in_one_seo_pack.php:411
+#, fuzzy
+msgid "Help for Option noindex for Archives"
+msgstr "不让搜索引擎抓取档案页:"
+
+#: all_in_one_seo_pack.php:412
+msgid "Use noindex for Archives:"
+msgstr "不让搜索引擎抓取档案页:"
+
+#: all_in_one_seo_pack.php:421
+#, fuzzy
+msgid "Help for Autogenerate Descriptions"
+msgstr "自动生成文章描述: "
+
+#: all_in_one_seo_pack.php:422
+msgid "Autogenerate Descriptions:"
+msgstr "自动生成文章描述: "
+
+#: all_in_one_seo_pack.php:431
+#, fuzzy
+msgid "Help for Option Max Number of Words in Auto-Generated Descriptions"
+msgstr "自动生成文章描述时的字数限制: "
+
+#: all_in_one_seo_pack.php:432
+msgid "Max Number of Words in Auto-Generated Descriptions:"
+msgstr "自动生成文章描述时的字数限制: "
+
+#: all_in_one_seo_pack.php:443
+msgid "Update Options"
+msgstr "更新选项"
+
+#: all_in_one_seo_pack.php:453
+#, fuzzy
+msgid "All in One SEO Plugin Home Description"
+msgstr "All in One SEO 选项"
+
+#: all_in_one_seo_pack.php:454
+#, fuzzy
+msgid "All in One SEO Plugin Home Title"
+msgstr "All in One SEO 选项"
+
+#: all_in_one_seo_pack.php:455
+#, fuzzy
+msgid "All in One SEO Plugin Rewrite Titles"
+msgstr "All in One SEO 选项"
+
+#: all_in_one_seo_pack.php:456
+#, fuzzy
+msgid "All in One SEO Plugin Use Categories"
+msgstr "All in One SEO 选项"
+
+#: all_in_one_seo_pack.php:457
+#, fuzzy
+msgid "All in One SEO Plugin Maximum Number of Words in Auto-Generated Descriptions"
+msgstr "自动生成文章描述时的字数限制: "
+
+#: all_in_one_seo_pack.php:458
+#, fuzzy
+msgid "Use Category Description for Title"
+msgstr "使用分类描述作为标题: "
+
+#: all_in_one_seo_pack.php:459
+#, fuzzy
+msgid "All in One SEO Plugin Noindex for Categories"
+msgstr "All in One SEO 选项"
+
+#: all_in_one_seo_pack.php:460
+#, fuzzy
+msgid "All in One SEO Plugin Noindex for Archives"
+msgstr "All in One SEO 选项"
+
+#: all_in_one_seo_pack.php:461
+#, fuzzy
+msgid "All in One SEO Plugin Autogenerate Descriptions"
+msgstr "All in One SEO 选项"
+

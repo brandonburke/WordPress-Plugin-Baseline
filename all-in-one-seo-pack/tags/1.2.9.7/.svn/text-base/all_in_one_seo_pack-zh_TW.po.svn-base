@@ -1,0 +1,219 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=n==1?0:1;\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2007-10-04 21:15+0800\n"
+"Last-Translator: Neil Lin <neil.lch@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: TAIWAN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_c\n"
+"X-Poedit-Basepath: ./zh_TW/\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: all_in_one_seo_pack.php:527
+#: all_in_one_seo_pack.php:556
+#: all_in_one_seo_pack.php:587
+msgid "All in One SEO Pack"
+msgstr "All in One SEO Pack"
+
+#: all_in_one_seo_pack.php:531
+#: all_in_one_seo_pack.php:560
+#: all_in_one_seo_pack.php:591
+msgid "Title:"
+msgstr "標題："
+
+#: all_in_one_seo_pack.php:535
+#: all_in_one_seo_pack.php:570
+#: all_in_one_seo_pack.php:600
+msgid "Keywords (comma separated):"
+msgstr "關鍵字（以半形逗點相隔）："
+
+#: all_in_one_seo_pack.php:564
+#: all_in_one_seo_pack.php:595
+msgid "Description:"
+msgstr "描述："
+
+#: all_in_one_seo_pack.php:566
+#: all_in_one_seo_pack.php:597
+msgid "Most search engines use a maximum of 160 chars for the description."
+msgstr "大部份的搜尋引擎容許最大160個字符的描述文字"
+
+#: all_in_one_seo_pack.php:615
+msgid "All in One SEO"
+msgstr "All in One SEO"
+
+#: all_in_one_seo_pack.php:620
+msgid "All in One SEO Options Updated."
+msgstr "All in One SEO 設定已更新。"
+
+#: all_in_one_seo_pack.php:653
+msgid "All in One SEO Plugin Options"
+msgstr "All in One SEO 外掛設定"
+
+#: all_in_one_seo_pack.php:655
+msgid "This is version "
+msgstr "版本："
+
+#: all_in_one_seo_pack.php:656
+msgid "All in One SEO Plugin Release History"
+msgstr "All in One SEO 外掛發布記錄"
+
+#: all_in_one_seo_pack.php:661
+msgid "All in One SEO Plugin Help"
+msgstr "All in One SEO 外掛說明"
+
+#: all_in_one_seo_pack.php:662
+msgid "Help"
+msgstr "說明"
+
+#: all_in_one_seo_pack.php:663
+#: all_in_one_seo_pack.php:664
+msgid "FAQ"
+msgstr "FAQ"
+
+#: all_in_one_seo_pack.php:665
+msgid "All in One SEO Plugin Feedback"
+msgstr "All in One SEO 外掛問題反應"
+
+#: all_in_one_seo_pack.php:666
+msgid "Feedback"
+msgstr "問題反應"
+
+#: all_in_one_seo_pack.php:667
+msgid "All in One SEO Plugin Translations"
+msgstr "All in One SEO 外掛翻譯"
+
+#: all_in_one_seo_pack.php:668
+msgid "Translations"
+msgstr "翻譯"
+
+#: all_in_one_seo_pack.php:674
+msgid "Help for Option Home Title"
+msgstr "首頁標題選項說明"
+
+#: all_in_one_seo_pack.php:675
+msgid "Home Title:"
+msgstr "首頁標題："
+
+#: all_in_one_seo_pack.php:684
+msgid "Help for Option Home Description"
+msgstr "首頁描述選項說明"
+
+#: all_in_one_seo_pack.php:685
+msgid "Home Description:"
+msgstr "首頁描述："
+
+#: all_in_one_seo_pack.php:694
+msgid "Help for Option Home Keywords"
+msgstr "首頁關鍵字選項說明"
+
+#: all_in_one_seo_pack.php:695
+msgid "Home Keywords (comma separated):"
+msgstr "首頁關鍵字（以半形逗點相隔）："
+
+#: all_in_one_seo_pack.php:704
+msgid "Help for Option Rewrite Titles"
+msgstr "改寫標題選項說明"
+
+#: all_in_one_seo_pack.php:705
+msgid "Rewrite Titles:"
+msgstr "改寫標題："
+
+#: all_in_one_seo_pack.php:714
+msgid "Help for Post Title Format"
+msgstr "文章標題格式說明"
+
+#: all_in_one_seo_pack.php:715
+msgid "Post Title Format:"
+msgstr "文章標題格式："
+
+#: all_in_one_seo_pack.php:724
+msgid "Help for Page Title Format"
+msgstr "分頁標題格式說明"
+
+#: all_in_one_seo_pack.php:725
+msgid "Page Title Format:"
+msgstr "分頁標題格式："
+
+#: all_in_one_seo_pack.php:734
+msgid "Help for Category Title Format"
+msgstr "分類頁標題格式說明"
+
+#: all_in_one_seo_pack.php:735
+msgid "Category Title Format:"
+msgstr "分類頁標題格式："
+
+#: all_in_one_seo_pack.php:745
+msgid "Help for Archive Title Format"
+msgstr "彙整頁標題格式說明"
+
+#: all_in_one_seo_pack.php:746
+msgid "Archive Title Format:"
+msgstr "彙整頁標題格式："
+
+#: all_in_one_seo_pack.php:756
+msgid "Help for Tag Title Format"
+msgstr "標籤頁標題格式說明"
+
+#: all_in_one_seo_pack.php:757
+msgid "Tag Title Format:"
+msgstr "標籤頁標題格式："
+
+#: all_in_one_seo_pack.php:767
+msgid "Help for Search Title Format"
+msgstr "搜尋頁標題格式說明"
+
+#: all_in_one_seo_pack.php:768
+msgid "Search Title Format:"
+msgstr "搜尋頁標題格式："
+
+#: all_in_one_seo_pack.php:778
+msgid "Help for Option Categories for META keywords"
+msgstr "關鍵字分類頁選項說明"
+
+#: all_in_one_seo_pack.php:779
+msgid "Use Categories for META keywords:"
+msgstr "使用分類名稱做為關鍵字："
+
+#: all_in_one_seo_pack.php:787
+msgid "Help for Option noindex for Categories"
+msgstr "禁止索引分類頁選項說明"
+
+#: all_in_one_seo_pack.php:788
+msgid "Use noindex for Categories:"
+msgstr "禁止對分類頁進行索引："
+
+#: all_in_one_seo_pack.php:797
+msgid "Help for Option noindex for Archives"
+msgstr "禁止索引彙整頁選項說明"
+
+#: all_in_one_seo_pack.php:798
+msgid "Use noindex for Archives:"
+msgstr "禁止對彙整頁進行索引："
+
+#: all_in_one_seo_pack.php:807
+msgid "Help for Option noindex for Tag Archives"
+msgstr "禁止索引標籤彙整頁選項說明"
+
+#: all_in_one_seo_pack.php:808
+msgid "Use noindex for Tag Archives:"
+msgstr "禁止對標籤彙整頁進行索引："
+
+#: all_in_one_seo_pack.php:817
+msgid "Help for Autogenerate Descriptions"
+msgstr "自動產生描述說明"
+
+#: all_in_one_seo_pack.php:818
+msgid "Autogenerate Descriptions:"
+msgstr "自動產生描述文字："
+
+#: all_in_one_seo_pack.php:829
+msgid "Update Options"
+msgstr "更新設定"
+

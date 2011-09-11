@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/435551/wp-super-cache/trunk
+END
+wp-cache-config-sample.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/412496/wp-super-cache/trunk/wp-cache-config-sample.php
+END
+wp-super-cache.pot
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/353446/wp-super-cache/trunk/wp-super-cache.pot
+END
+Changelog.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/349944/wp-super-cache/trunk/Changelog.txt
+END
+wp-cache-base.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/412496/wp-super-cache/trunk/wp-cache-base.php
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/416034/wp-super-cache/trunk/readme.txt
+END
+advanced-cache.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/315782/wp-super-cache/trunk/advanced-cache.php
+END
+ossdl-cdn.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/410108/wp-super-cache/trunk/ossdl-cdn.php
+END
+wp-cache-phase1.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/414779/wp-super-cache/trunk/wp-cache-phase1.php
+END
+wp-cache-phase2.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/409227/wp-super-cache/trunk/wp-cache-phase2.php
+END
+wp-cache.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/435551/wp-super-cache/trunk/wp-cache.php
+END

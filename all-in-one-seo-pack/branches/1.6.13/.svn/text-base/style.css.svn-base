@@ -1,0 +1,19 @@
+.aioseop-success {
+	background-image: url(images/success.png);
+	color: #008000;
+}
+
+.aioseop-error {
+	background-image: url(images/error.png);
+	color: #FF0000;
+}
+
+.aioseop-warning {
+	background-image: url(images/warning.png);
+	color: #FF8C00;
+}
+
+.aioseop-info {
+	background-image: url(images/info.png);
+	color: #0000FF;
+}

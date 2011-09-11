@@ -1,0 +1,218 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: All in One SEO Pack DK\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2007-10-03 23:02+0100\n"
+"Last-Translator: Martin Daugaard Stevnhoved <martin@stevnhoved.dk>\n"
+"Language-Team: Martin Daugaard Stevnhoved <martin@stevnhoved.dk>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Danish\n"
+"X-Poedit-Country: DENMARK\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: all_in_one_seo_pack.php:527
+#: all_in_one_seo_pack.php:556
+#: all_in_one_seo_pack.php:587
+msgid "All in One SEO Pack"
+msgstr "Alt-i-&eacute;t SEO pakke"
+
+#: all_in_one_seo_pack.php:531
+#: all_in_one_seo_pack.php:560
+#: all_in_one_seo_pack.php:591
+msgid "Title:"
+msgstr "Titel:"
+
+#: all_in_one_seo_pack.php:535
+#: all_in_one_seo_pack.php:570
+#: all_in_one_seo_pack.php:600
+msgid "Keywords (comma separated):"
+msgstr "N&oslash;gleord (adskilt med komma):"
+
+#: all_in_one_seo_pack.php:564
+#: all_in_one_seo_pack.php:595
+msgid "Description:"
+msgstr "Beskrivelse:"
+
+#: all_in_one_seo_pack.php:566
+#: all_in_one_seo_pack.php:597
+msgid "Most search engines use a maximum of 160 chars for the description."
+msgstr "De fleste s&oslash;gemaskiner har en beg&aelig;nsning p&aring; 160 tegn for beskrivelsen."
+
+#: all_in_one_seo_pack.php:615
+msgid "All in One SEO"
+msgstr "Alt-i-&eacute;t SEO"
+
+#: all_in_one_seo_pack.php:620
+msgid "All in One SEO Options Updated."
+msgstr "Alt-i-&eacute;t indstillinger er opdateret."
+
+#: all_in_one_seo_pack.php:653
+msgid "All in One SEO Plugin Options"
+msgstr "Alt-i-&eacute;t SOE plugin indstillinger"
+
+#: all_in_one_seo_pack.php:655
+msgid "This is version "
+msgstr "Dette er version "
+
+#: all_in_one_seo_pack.php:656
+msgid "All in One SEO Plugin Release History"
+msgstr "Alt-i-&eacute;t SEO plugin udgivelses historik"
+
+#: all_in_one_seo_pack.php:661
+msgid "All in One SEO Plugin Help"
+msgstr "Alt-i-&eacute;t SEO plugin hj&aelig;lp"
+
+#: all_in_one_seo_pack.php:662
+msgid "Help"
+msgstr "Hj&aelig;lp"
+
+#: all_in_one_seo_pack.php:663
+#: all_in_one_seo_pack.php:664
+msgid "FAQ"
+msgstr "OSS"
+
+#: all_in_one_seo_pack.php:665
+msgid "All in One SEO Plugin Feedback"
+msgstr "Alt-i-&eacute;t SEO plugin tilbagemelding"
+
+#: all_in_one_seo_pack.php:666
+msgid "Feedback"
+msgstr "Tilbagemelding"
+
+#: all_in_one_seo_pack.php:667
+msgid "All in One SEO Plugin Translations"
+msgstr "Alt-i-&eacute;t SEO plugin overs&aelig;ttelser"
+
+#: all_in_one_seo_pack.php:668
+msgid "Translations"
+msgstr "Overs&aelig;ttelser"
+
+#: all_in_one_seo_pack.php:674
+msgid "Help for Option Home Title"
+msgstr "Hj&aelig;lp til indstillingen 'forside titel'"
+
+#: all_in_one_seo_pack.php:675
+msgid "Home Title:"
+msgstr "Forside titel:"
+
+#: all_in_one_seo_pack.php:684
+msgid "Help for Option Home Description"
+msgstr "Hj&aelig;lp til indstillingen 'forside beskrivelse'"
+
+#: all_in_one_seo_pack.php:685
+msgid "Home Description:"
+msgstr "Forside beskrivelse:"
+
+#: all_in_one_seo_pack.php:694
+msgid "Help for Option Home Keywords"
+msgstr "Hj&aelig;lp til indstillingen 'forside n&oslash;gleord'"
+
+#: all_in_one_seo_pack.php:695
+msgid "Home Keywords (comma separated):"
+msgstr "Forside n&oslash;gleord (adskilt med komma):"
+
+#: all_in_one_seo_pack.php:704
+msgid "Help for Option Rewrite Titles"
+msgstr "Hj&aelig;lp til indstillingen 'omskriv titler'"
+
+#: all_in_one_seo_pack.php:705
+msgid "Rewrite Titles:"
+msgstr "Omskriv titler:"
+
+#: all_in_one_seo_pack.php:714
+msgid "Help for Post Title Format"
+msgstr "Hj&aelig;lp til indstillingen 'format for titel til indl&aelig;g'"
+
+#: all_in_one_seo_pack.php:715
+msgid "Post Title Format:"
+msgstr "Format for titel til indl&aelig;g:"
+
+#: all_in_one_seo_pack.php:724
+msgid "Help for Page Title Format"
+msgstr "Hj&aelig;lp til indstillingen 'format for titel til sider'"
+
+#: all_in_one_seo_pack.php:725
+msgid "Page Title Format:"
+msgstr "Format for titel til sider:"
+
+#: all_in_one_seo_pack.php:734
+msgid "Help for Category Title Format"
+msgstr "Hj&aelig;lp til indstillingen 'format for titel til kategorier'"
+
+#: all_in_one_seo_pack.php:735
+msgid "Category Title Format:"
+msgstr "Format for titel til kategorier:"
+
+#: all_in_one_seo_pack.php:745
+msgid "Help for Archive Title Format"
+msgstr "Hj&aelig;lp til indstillingen 'format for titel til arkiver'"
+
+#: all_in_one_seo_pack.php:746
+msgid "Archive Title Format:"
+msgstr "Format for titel til arkiver:"
+
+#: all_in_one_seo_pack.php:756
+msgid "Help for Tag Title Format"
+msgstr "Hj&aelig;lp til indstillingen 'format for titel til tags'"
+
+#: all_in_one_seo_pack.php:757
+msgid "Tag Title Format:"
+msgstr "Format for titel til tags:"
+
+#: all_in_one_seo_pack.php:767
+msgid "Help for Search Title Format"
+msgstr "Hj&aelig;lp til indstillingen 'format for titel til s&oslash;gninger'"
+
+#: all_in_one_seo_pack.php:768
+msgid "Search Title Format:"
+msgstr "Format for titel til s&oslash;gninger:"
+
+#: all_in_one_seo_pack.php:778
+msgid "Help for Option Categories for META keywords"
+msgstr "Hj&aelig;lp til indstillingen 'kategorier til META n&oslash;gleord'"
+
+#: all_in_one_seo_pack.php:779
+msgid "Use Categories for META keywords:"
+msgstr "Anvend kategorier til META n&oslash;gleord:"
+
+#: all_in_one_seo_pack.php:787
+msgid "Help for Option noindex for Categories"
+msgstr "Hj&aelig;lp til indstillingen 'noindex for kategorier'"
+
+#: all_in_one_seo_pack.php:788
+msgid "Use noindex for Categories:"
+msgstr "Anvend 'noindex' for kategorier:"
+
+#: all_in_one_seo_pack.php:797
+msgid "Help for Option noindex for Archives"
+msgstr "Hj&aelig;lp til indstillingen: 'noindex for arkiver'"
+
+#: all_in_one_seo_pack.php:798
+msgid "Use noindex for Archives:"
+msgstr "Anvend 'noindex' for arkiver:"
+
+#: all_in_one_seo_pack.php:807
+msgid "Help for Option noindex for Tag Archives"
+msgstr "Hj&aelig;lp til indstillingen 'noindex for tags'"
+
+#: all_in_one_seo_pack.php:808
+msgid "Use noindex for Tag Archives:"
+msgstr "Anvend 'noindex' for tags:"
+
+#: all_in_one_seo_pack.php:817
+msgid "Help for Autogenerate Descriptions"
+msgstr "Hj&aelig;lp til indstillingen 'autogener&eacute;r beskrivelser'"
+
+#: all_in_one_seo_pack.php:818
+msgid "Autogenerate Descriptions:"
+msgstr "Autogener&eacute;r beskrivelser:"
+
+#: all_in_one_seo_pack.php:829
+msgid "Update Options"
+msgstr "Opdat&eacute;r indstillinger"
+
