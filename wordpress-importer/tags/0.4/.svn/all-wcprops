@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/366419/wordpress-importer/tags/0.4
+END
+parsers.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/366418/wordpress-importer/tags/0.4/parsers.php
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/366419/wordpress-importer/tags/0.4/readme.txt
+END
+wordpress-importer.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/366418/wordpress-importer/tags/0.4/wordpress-importer.php
+END
